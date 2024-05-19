@@ -6,7 +6,11 @@
 
 ## Summary 🌟
 
-Experienced Software Engineer with proficiency in Python and IBM iSeries, specializing in application design, development, and maintenance within the iSeries environment. I began my career at Cognizant, gaining valuable expertise in Python and AS400. Throughout my journey, I developed strong analytical skills, enabling me to comprehend AS400 code and apply this knowledge in creating Python tools for reverse engineering and modernization. My capabilities extend to crafting Python tools for legacy modernization. Possessing excellent communication and team-building skills, I approach projects with confidence and consistently deliver within specified timeframes.
+Hello! I'm a passionate Software Engineer with 2 years of professional experience, specializing in Python. Throughout my career, I've had the opportunity to work on diverse projects, particularly focusing on automation scripts and legacy modernization. My work in these areas has honed my problem-solving skills and deepened my understanding of various legacy systems, including mainframe and AS400 languages.
+Parallel to my professional endeavors, I have dedicated significant time to expanding my skill set in data analytics and data science. I am deeply intrigued by the power of data and its potential to drive strategic decisions and innovations. My learning journey has equipped me with a solid foundation in data analytics, and I am eager to transition my career into this dynamic field.
+Additionally, I have experience in writing shell scripts, which has been invaluable in automating routine tasks and improving efficiency in my projects.
+As I move forward, I am excited to leverage my technical expertise and analytical skills to contribute to the field of data analytics and data science. I am committed to continuous learning and am enthusiastic about the opportunities that lie ahead in my career transition.
+Feel free to connect with me to discuss potential collaborations, share insights, or explore opportunities in data analytics and data science!
 
 
 ## Education 🎓
